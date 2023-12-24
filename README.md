@@ -1,3 +1,22 @@
+# npx create-react-app pokede_app
+# integrate tailwindcss with pokedex
+# create store using @redux/toolkit and react-redux
+# build component header and then fetch data from api and store to our redux store
+# build body component in which all card are shown
+# implement inifinite scrolling feature using logic height of window
+# build card component which having pokemon data is shown image,name,id,type
+# implement differenct background to all different type of pokemon
+# use various hooks like useDispatch,useState,useEffect
+# make constant file which contains API of pokemon and image API
+# implement search option on the basis of name and id
+# implement routing using react-router-dom
+# use createBrowserRoute and outlet 
+# build pokemon slice which have addpokemons reducer
+# build statData component which shows the stat of pokemon
+# use various css feature like background,flex, justify, margin,paddingetc...
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
